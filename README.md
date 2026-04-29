@@ -6,5 +6,4 @@ For the overall flow diagram, each box is labelled with method name. Black lines
 
 For the bracket computation flow diagram, likewise for the box labels as well as black and other colored lines in addition to the line annotations. Do note that this flow diagram depicts recursion, as seen in multiple possible events where computeExpressionWithBrackets() is invoked. 
 
-Edge cases not accounted for: 
-a) Operands +, -, /, or x grouped together. The program cannot distinguish between +--+- (perfectly valid) and x/ (invalid), and will flag both for diagnosis but won't display any diagnosis information.
+Edge cases not accounted for: operands +, -, /, or x grouped together. The program cannot distinguish between +--+- (perfectly valid) and x/ (invalid), and will flag both for diagnosis but won't display any diagnosis information.
