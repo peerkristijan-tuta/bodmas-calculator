@@ -1,1 +1,1 @@
-BODMAS methods in this program cover all but brackets, which are covered by specialized bracket methods. 
+BODMAS methods in this program cover all but brackets, which are covered by specialized bracket methods. Hashmaps and ArrayLists are used for analyzing detected invalid expressions. Expression to be computed is entered in as a command-line argument. 
